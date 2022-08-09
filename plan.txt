@@ -1,0 +1,7 @@
+- Communicate w GitHub to make a new repository and link with the project
+- Make a folder in specified development directory
+- Make any number or type of files and put inside the directory
+- Make a virtual environment and activate it (choose version of python)
+- Install libraries into VE
+- Open folder in specified IDE
+
