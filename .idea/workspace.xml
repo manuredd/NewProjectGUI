@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14b3177a-7eb5-47c2-9b4f-b83fcc88c3df" name="Changes" comment="icon working&#10;window size">
-      <change afterPath="$PROJECT_DIR$/gitapi.py" afterDir="false" />
+    <list default="true" id="14b3177a-7eb5-47c2-9b4f-b83fcc88c3df" name="Changes" comment="repo created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitapi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plan.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660151893210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="repo created">
+      <created>1660510815449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660510815449</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +112,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="work" />
     <MESSAGE value="icon working&#10;window size" />
-    <option name="LAST_COMMIT_MESSAGE" value="icon working&#10;window size" />
+    <MESSAGE value="repo created" />
+    <option name="LAST_COMMIT_MESSAGE" value="repo created" />
   </component>
 </project>

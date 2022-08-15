@@ -5,3 +5,7 @@
 - Install libraries into VE
 - Open folder in specified IDE
 
+gui:
+    enter personal token, txt file created in application manager
+
+

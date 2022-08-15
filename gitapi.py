@@ -1,10 +1,10 @@
 import requests
 from pprint import pprint
-import sys
 
+txt = open("/Users/mredd/Misc/token.txt", "r")
 url = "https://api.github.com/user/repos"
 payload = '{"name": "teest", "private": "true"}'
-token = "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"
+token = txt.read()
 headers = {
     "Accept": "application/vnd.github+json",
     "Authorization": "token " + token,
