@@ -8,4 +8,4 @@
 gui:
     enter personal token, txt file created in application manager
 
-test
+testing
